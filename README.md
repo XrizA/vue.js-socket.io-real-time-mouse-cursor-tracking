@@ -1,19 +1,13 @@
-# vue-test
-
-## Project setup
-```
-yarn install
-```
+# Vue.js socket.io real time mouse cursor tracking
 
 ### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Run server
 ```
-yarn build
+node ./server.js
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![dev1](dev1.gif)
